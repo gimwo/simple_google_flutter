@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "302157335208",
+    "project_id": "flutterprac-86b30",
+    "storage_bucket": "flutterprac-86b30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302157335208:android:88590930c691ba40f1109d",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302157335208-4u7ne2rtuhgnt5rie6upqik1dsj01jk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ_cMwzLfQy7iP8B5_cjyI4Ny8v_VdqYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302157335208-4u7ne2rtuhgnt5rie6upqik1dsj01jk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302157335208-9na26l9u9s13vuvtu63l17iu932q1nkh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.logIn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
